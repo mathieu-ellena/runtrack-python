@@ -1,0 +1,2 @@
+txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"[::-1]
+print(txt)
